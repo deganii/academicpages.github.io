@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant, "
+title: "Teaching Assistant, MIT HST.973 Evaluating a Biomedical Business Concept"
 collection: teaching
-type: "MIT HST.973 Evaluating a Biomedical Business Concept (Graduate)"
+type: "Graduate"
 permalink: /teaching/2017-fall-HST.973
 venue: "MIT, Department of Health Sciences and Technology"
 date: 2017-08-28
