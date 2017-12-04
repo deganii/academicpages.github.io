@@ -11,7 +11,7 @@ redirect_from:
 
 I'm currently a master's student in Electrical Engineering and Computer Science at MIT. I'm also a research assistant in the Center for Systems Biology (CSB) at Massachusetts General Hospital. At CSB I'm part of the [Biomedical Engineering Group](https://csb.mgh.harvard.edu/engineering/people) which is working towards a revolutionary holographic imaging technology that will address a significant clinical need in lymphoma diagnosis across resource-limited settings:
 
-![D3](/images/D3.JPG)
+![D3]("/images/D3.JPG")
 
 This low-cost system is called the Digital Diffraction Diagnostic (D3). It provides a fast, on-site count of malignant lymphoma cells and can stratify high and low-grade lymphomas. It is scheduled for a prospective clinical trial in Botswana in 2018.  If successful, the clinical trial will yield a point-of-care platform that has the potential to improve significantly clinical outcomes for lymphoma patients across rural sub-Saharan Africa. 
 
