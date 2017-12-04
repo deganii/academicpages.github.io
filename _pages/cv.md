@@ -24,15 +24,15 @@ Work experience
   
 Skills
 ======
-* Programming Languages 
+* **Programming Languages:**
   C#, Python, Ruby, Objective-C, Java, C, C++, VBA (Excel), Web (HTML5/Javascript)
-* Data Analysis 
+* **Data Analysis**
   TenorFlow, Keras, Matlab, OpenCV, SciKit-Learn
-* Electronics 
+* **Electronics**
   ARM/Cortex Embedded C++, Eagle PCB Design, Basic & SMT Reflow Soldering, Arduino
-* CAD/CAM Design 
+* **CAD/CAM Design**
   Solidworks 2016, Autodesk Inventor, MasterCAM X9 tool-path generation
-* Prototyping 
+* **Prototyping**
   Laser ablation (Epilog Helix), FDM/SLA Printing, CNC/Lathe Operation
 
 
@@ -48,12 +48,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Awards and Fellowships
 ======
 * **MIT Legatum Fellowship:**
@@ -62,3 +56,11 @@ Awards and Fellowships
   Design and development of novel workstation targeting back-pain
 * **Cornell Tradition Fellowship:**
   Workplace achievement & significant community service commitment
+
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
