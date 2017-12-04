@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ismail Degani: Grad Student at MIT"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
