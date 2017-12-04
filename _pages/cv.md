@@ -56,9 +56,9 @@ Talks
   
 Awards and Fellowships
 ======
-* MIT Legatum Fellowship: $28,000
+* **MIT Legatum Fellowship:**
   Development of sustainable enterprise in a resource-limited setting
-* MIT Sandbox Grant Recipient: $2,500
+* **MIT Sandbox Grant Recipient:**
   Design and development of novel workstation targeting back-pain
-* Cornell Tradition Fellowship: $20,000
+* **Cornell Tradition Fellowship:**
   Workplace achievement & significant community service commitment
