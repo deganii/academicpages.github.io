@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm currently a master's student in Electrical Engineering and Computer Science at MIT. I'm also a research assistant in the Center for Systems Biology (CSB) at Massachusetts General Hospital. At CSB I'm part of the [Biomedical Engineering Group](https://csb.mgh.harvard.edu/engineering/people) which is working towards a revolutionary holographic imaging technology that will address a significant clinical need in lymphoma diagnosis across resource-limited settings:
+I'm currently a Ph.D. Candidate in Electrical Engineering and Computer Science at MIT. I'm also a research assistant in the Center for Systems Biology (CSB) at Massachusetts General Hospital. At CSB I'm part of the [Biomedical Engineering Group](https://csb.mgh.harvard.edu/engineering/people) which is working towards a revolutionary holographic imaging technology that will address a significant clinical need in lymphoma diagnosis across resource-limited settings:
 
 ![D3](/images/D3.JPG)
 
